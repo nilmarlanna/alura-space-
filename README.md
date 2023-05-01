@@ -81,11 +81,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
- <sub><b>Neilton Seguins</b></sub></a> <a href="https://www.linkedin.com/in/nilmarlanna/" title="Alura Space">🚀</a>
+ <sub><b>Nilmar Lanna</b></sub></a> <a href="https://www.linkedin.com/in/nilmarlanna/" title="Alura Space">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-nilmarlanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/)
-[![Gmail Badge](https://img.shields.io/badge/-neilton.seguins@alura.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neilton.seguins@alura.com.br)](mailto:neilton.seguins@alura.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-NilmarLanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/)  [![Outlook Badge](https://img.shields.io/badge/-nilmar.lanna@outlook.com.br-3871c1?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nilmar.lanna@outlook.com.br)](mailto:nilmar.lanna@outlook.com.br)
 
 ---
 
